@@ -10,13 +10,13 @@ To run and use locally
 3. Open Terminal and run all code one by one!
 
 To build
-```cmd
+```node
 cd introduction-three-js
 npm run build
 ```
 
 To deploy
-```cmd
+```node
 npm install netlify-cli -g
 netlify login
 netlify deploy
