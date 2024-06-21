@@ -11,6 +11,7 @@ To run and use locally
 
 To build
 ```cmd
+cd introduction-three-js
 npm run build
 ```
 
