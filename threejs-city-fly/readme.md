@@ -1,4 +1,4 @@
-This code creates a rotating cube using WebGL and HTML 5 canvas.
+This code teaches how to position camera and movement control in threejs
 
 * Link to project (under client project name): https://devloper-hs-threejs-city-fly.netlify.app/
 ---
